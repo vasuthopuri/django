@@ -23,7 +23,7 @@ SECRET_KEY = '@o27=8)$ql$gmoe*3b$^yr#^t!i#$3f&3be$)itm=16w@===sb'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
-ALLOWED_HOSTS = ["vasu.thopuri.herokuapp.com"]
+ALLOWED_HOSTS = ["*"]
 
 # Application definitionpip
 

@@ -74,7 +74,7 @@
           <entry key="css" value="228" />
           <entry key="html" value="1975" />
           <entry key="js" value="1" />
-          <entry key="py" value="873" />
+          <entry key="py" value="874" />
           <entry key="runtime" value="17" />
           <entry key="txt" value="92" />
         </counts>
@@ -85,7 +85,7 @@
           <entry key="HTML" value="1975" />
           <entry key="JavaScript" value="1" />
           <entry key="PLAIN_TEXT" value="132" />
-          <entry key="Python" value="873" />
+          <entry key="Python" value="874" />
         </counts>
       </usages-collector>
     </session>
@@ -136,8 +136,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ownwebsite/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="30" column="27" lean-forward="true" selection-start-line="30" selection-start-column="27" selection-end-line="30" selection-end-column="27" />
+            <state relative-caret-position="187">
+              <caret line="24" column="12" lean-forward="true" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -582,8 +582,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ownwebsite/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="30" column="27" lean-forward="true" selection-start-line="30" selection-start-column="27" selection-end-line="30" selection-end-column="27" />
+        <state relative-caret-position="187">
+          <caret line="24" column="12" lean-forward="true" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="12" />
         </state>
       </provider>
     </entry>
