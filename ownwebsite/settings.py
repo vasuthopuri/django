@@ -23,7 +23,7 @@ SECRET_KEY = '@o27=8)$ql$gmoe*3b$^yr#^t!i#$3f&3be$)itm=16w@===sb'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
-ALLOWED_HOSTS = ["*"]
+ALLOWED_HOSTS = [" vasu.thopuri.herokuapp.com"]
 
 # Application definitionpip
 
@@ -118,7 +118,7 @@ DATABASES['default'] = dj_database_url.config()
 # https://docs.djangoproject.com/en/2.2/howto/static-files/
 PROJECT_ROOT = os.path.dirname(os.path.abspath(__file__))
 
-STATICFILES_STORAGE = 'whitenoise.django.GzipManifestStaticFilesStorage'
+STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'
 
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/1.9/howto/static-files/
