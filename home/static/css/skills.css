@@ -1,0 +1,54 @@
+* {
+	padding:0px;
+	margin:0px;
+ font-family:'Roboto Slab';
+}
+p {
+    margin:0;
+}
+/*Skills Page*/
+body{
+   width: 100%;
+  height: 100vh;
+  position: relative;
+    background-image:url("https://images4.alphacoders.com/647/647501.jpg");
+  background-size: cover;
+  background-position: center center;
+    }
+#skillheading {
+  text-align:center;
+  font-family:'Montserrat';
+  padding-bottom:60px;
+  padding-top:60px;
+    color:#28ff63;
+  text-decoration:underline #FED136;
+}
+
+#skillheading h2{
+  font-size:40px;
+    color:#EA495F;
+}
+
+
+h4{
+  text-align:center;
+  font-size:24px;
+  font-weight:700;
+    background-color:#FED136;
+}
+
+#skills #image{
+    margin-left:40%;
+    padding-top:30px;
+
+}
+
+#skills p {
+  font-family:'Roboto Slab';
+  font-size:18px;
+}
+
+#para {
+  text-align:center;
+    color:#28ff63;
+}

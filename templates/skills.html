@@ -1,0 +1,34 @@
+{% extends 'base.html' %}
+{% load staticfiles%}
+{% block title %} {{ title }} {% endblock %}
+{% block body %}
+<section id="skills">
+  <div class="container">
+    <div id="skillheading">
+      <h2>Skills</h2>
+      <p>Also able to work with frameworks like Dajngo</p>
+    </div>
+
+    <div class="row">
+
+      <div class="col-sm-4">
+        <img src="https://res.cloudinary.com/dbahgtgfu/image/upload/t_media_lib_thumb/v1509463894/4_dz6pca.png" id="image">
+        <h4>HTML5</h4>
+        <p id="para">HTML5[a] is a markup language used for structuring and presenting content on the World Wide Web. It is the fifth and current major version of the HTML standard.</p>
+      </div>
+
+      <div class="col-sm-4">
+        <img src="https://res.cloudinary.com/dbahgtgfu/image/upload/t_media_lib_thumb/v1509463891/3_no7a0n.png" id="image">
+      <h4>CSS3</h4>
+      <p id="para">Cascading Style Sheets (CSS) is a style sheet language used for describing the presentation of a document written in a markup language.</p>
+      </div>
+
+      <div class="col-sm-4">
+        <img src="https://res.cloudinary.com/dbahgtgfu/image/upload/t_media_lib_thumb/v1509463886/1_mpwfe7.png" id="image">
+        <h4>Python</h4>
+        <p id="para">Python is a widely used high-level programming language for general-purpose programming, created by Guido van Rossum and first released in 1991</p>
+      </div>
+    </div>
+  </div>
+</section>
+{% endblock %}

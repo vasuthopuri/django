@@ -1,0 +1,1 @@
+web: gunicorn ownwebsite.wsgi --log-file -

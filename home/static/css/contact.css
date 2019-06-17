@@ -1,0 +1,49 @@
+
+.form-group {
+    margin-bottom: 15px;
+    font-family: MyriadRegular, sans-serif;
+}
+
+.sub-title{
+    color:#000000
+}
+.space-between {
+    margin-left: 20px;
+}
+
+.fb {
+    font-size: 4em;
+    color: #3C569C;
+    margin-left: 20px;
+
+}
+
+.google-plus {
+    font-size: 4em;
+    color: #CE5542;
+    margin-left: 20px;
+
+}
+
+.twitter {
+    font-size: 4em;
+    color: #46A1EB;
+    margin-left: 20px;
+
+}
+
+.git {
+    font-size: 4em;
+    color: #000000;
+     margin-left: 100px;
+
+}
+
+
+.linkedin {
+    color: #2F7BB0;
+    font-size: 4em;
+    margin-left: 20px;
+
+}
+

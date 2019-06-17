@@ -1,0 +1,22 @@
+{% extends 'base.html' %}
+{% load staticfiles %}
+{% block title %} {{ title }} {% endblock %}
+{% block body %}
+<div class="newspaper playing">
+  <div class="title">
+    <h1>Vasu Thopuri</h1>
+  </div>
+  <div class="coverimage">
+      <img src="{% static 'img/vasu_img.jpg' %}" alt="Profile image example"/>
+      </div>
+  <div class="copy">
+    <p>I am Vasu Thopuri.I was born in March 03  in 1996 in Andhra pradesh.I had completed my B.Tech in Electronics and Communication Engineering in
+     2017 from Prakasam Engineering College</p>
+    <p> Right now i am working in Capgemini Technology services india limited as Associate Software Engineer.</p>
+
+    <p>I am very passionating on software developer in Python. </p>
+    <p class="pullquote">దుమ్ము లేపే దమ్ముండాలి సాధించాలి అనే పట్టుదల ఉండాలి</p>
+    <p>My hobbies are playing cricket and listing music.</p>
+  </div>
+</div>
+{% endblock %}
